@@ -1,0 +1,42 @@
+/*Small devices (Landscape Phone)*/
+@media (min-width: 576px) {
+  .pale {
+    width: 143%;
+  }
+}
+
+/*Medium devices (Tablet)*/
+@media (min-width: 768px) {
+  .pale {
+    width: 80%;
+  }
+}
+
+/*Large devices (desktop)*/
+@media (min-width: 992px) {
+  .pale {
+    width: 90%;
+  }
+}
+
+/*Extra Large devices (Large Desktop)*/
+@media (min-width: 1200px) {
+  .pale {
+    width: 100%;
+  }
+}
+
+/*The given size or smaller*/
+
+/*Extra small devices (portrait phone)*/
+@media (max-width: 575px) {
+}
+/*small devices (Landscape phone)*/
+@media (max-width: 767px) {
+}
+/*Medium devices (tablets)*/
+@media (max-width: 991px) {
+}
+/*Large devices (Desktop)*/
+@media (max-width: 1199px) {
+}
