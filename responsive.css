@@ -1,14 +1,14 @@
 /*Small devices (Landscape Phone)*/
 @media (min-width: 576px) {
   .pale {
-    width: 143%;
+    width: 50%;
   }
 }
 
 /*Medium devices (Tablet)*/
 @media (min-width: 768px) {
   .pale {
-    width: 80%;
+    width: 120%;
   }
 }
 
@@ -30,6 +30,9 @@
 
 /*Extra small devices (portrait phone)*/
 @media (max-width: 575px) {
+  .pale {
+    width: 50%;
+  }
 }
 /*small devices (Landscape phone)*/
 @media (max-width: 767px) {
